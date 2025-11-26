@@ -19,3 +19,11 @@ body {
   background-color: salmon;
   border-radius: 10px;
 }
+
+.seret {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+  display: block;
+  margin: auto;
+}
