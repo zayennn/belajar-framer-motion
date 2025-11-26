@@ -6,6 +6,7 @@ import Card from './components/card';
 import Stragger from './components/stragger';
 import DragGesture from './components/dragGesture';
 import ScrollAnimation from './components/scrollAnimation';
+import WhileInView from './components/WhileInView';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       {/* <Stragger /> */}
       {/* <DragGesture /> */}
       {/* <ScrollAnimation /> */}
+      <WhileInView />
     </>
   );
 }
